@@ -15,8 +15,8 @@ This is a simple **calculator** app with a hidden **secure storage locker** feat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
+   git clone https://github.com/yourusername/fake-calculator.git
+   cd fake-calculator
 Install dependencies:
 bash
 Copy code
